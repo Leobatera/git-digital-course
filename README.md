@@ -12,3 +12,4 @@ Nova Modificação!
 * comando git push feito
 * comando git pull feito
 * comando git fatch
+Sem Alterações.
