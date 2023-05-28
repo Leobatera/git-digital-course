@@ -9,4 +9,4 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
 Nova Modificação!
 
 ## Salvando Alterações no Git
-* comando git push
+* comando git push feito
