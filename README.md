@@ -11,3 +11,4 @@ Nova Modificação!
 ## Salvando Alterações no Git
 * comando git push feito
 * comando git pull feito
+* comando git fatch
