@@ -15,3 +15,4 @@ Nova Modificação!
 ## Salvando alterações no Git
 
 * Uso do comando restore
+* Comando git push
