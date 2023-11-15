@@ -16,3 +16,4 @@ Nova Modificação!
 
 * Uso do comando restore
 * Comando git push
+* Comando git pull
