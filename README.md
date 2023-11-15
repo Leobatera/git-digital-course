@@ -13,3 +13,5 @@ Nova Modificação!
 * commando git pull
 
 ## Salvando alterações no Git
+
+* Uso do comando restore
