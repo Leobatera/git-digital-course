@@ -15,5 +15,6 @@ Nova Modificação!
 ## Salvando alterações no Git
 
 * Uso do comando restore
-* Comando git push
-* Comando git pull
+* Comando git push (mandar para repositorio remoto)
+* Comando git pull (puxar para maquina local)
+* Comando git fecth (ver a diferença antes de puxar)
